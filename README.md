@@ -7,7 +7,7 @@ The model can be found in our huggingface repository.
 https://huggingface.co/SimpliAI/LlamaPDF
 
 
-'''
+```
 @misc{LLAMAPDF_github,
   author = {Yiming Qian},
   title = {LlamaPDF: LLM Based PDF to Markdown Parser},
@@ -16,4 +16,4 @@ https://huggingface.co/SimpliAI/LlamaPDF
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/SimpliAI-Open/LlamaPDF/}}
 }
-'''
+```
